@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Ethanall94)](https://solved.ac/Ethanall94)
 
-<!--
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ethanall94&theme=dark)](https://leetcode.com/Ethanall94/)
--->
 
 </div>
